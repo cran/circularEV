@@ -8,8 +8,6 @@
 \description{
 General functions for performing extreme value analysis on a circular 
     domain as part of the statistical methodology in the paper by Konzen, E., 
-    Neves, C., and Jonathan, P. (2020+). Modelling non-stationary extremes of 
-    storm severity: comparing parametric and semi-parametric inference. 
-    Environmetrics (to appear).
+    Neves, C., and Jonathan, P. (2021). Modeling nonstationary extremes of storm severity: Comparing parametric and semiparametric inference. Environmetrics, 32(4), e2667.
 }
 \keyword{internal}

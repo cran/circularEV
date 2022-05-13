@@ -53,7 +53,7 @@ List including bootstrap estimates of EVI, scale and T-year levels.
 Local bootstrap estimation of EVI, scale and T-year levels
 }
 \details{
-See Konzen, E., Neves, C., and Jonathan, P. (2020+). Modelling non-stationary extremes of storm severity: comparing parametric and semi-parametric inference. Environmetrics (to appear).
+See Konzen, E., Neves, C., and Jonathan, P. (2021). Modeling nonstationary extremes of storm severity: Comparing parametric and semiparametric inference. Environmetrics, 32(4), e2667.
 }
 \examples{
 data(HsSP)

@@ -20,7 +20,7 @@
 #' @return List containing the selected threshold and selected number of local
 #'   exceedances at each direction in the grid.
 #'
-#' @details See Konzen, E., Neves, C., and Jonathan, P. (2020+). Modelling non-stationary extremes of storm severity: comparing parametric and semi-parametric inference. Environmetrics (to appear).
+#' @details See Konzen, E., Neves, C., and Jonathan, P. (2021). Modeling nonstationary extremes of storm severity: Comparing parametric and semiparametric inference. Environmetrics, 32(4), e2667.
 #' @export
 #' @seealso \code{\link{PlotData}} and \code{\link{PolarPlotData}} to see how
 #' the threshold can be visualised.
